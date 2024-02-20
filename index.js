@@ -15,9 +15,9 @@ app.get('/', (req, res) => {
         <meta property="fc:frame" content="vNext"/>
         <meta property="fc:frame:image" content="https://media.discordapp.net/attachments/753834104818106448/1208862902040264755/image.png?ex=65e4d44f&is=65d25f4f&hm=c0997bcdc05bdf131b289455a5376498ec37e7e870f7f95ae53137c3f0cdb8ff&=&format=webp&quality=lossless&width=676&height=676"/>
 
-        <meta property="fc:frame:button:1" content="Spec"/>
+        <meta property="fc:frame:button:1" content="Youtube"/>
         <meta property="fc:frame:button:1:action" content="Link"/>
-        <meta property="fc:frame:button:1:target" content="https://docs.farcaster.xyz/reference/frames/spec"/>
+        <meta property="fc:frame:button:1:target" content="https://www.youtube.com/watch?v=Ye677-FkgXE"/>
 
         <meta property="fc:frame:button:2" content="Image"/>
         <meta property="fc:frame:button:2:action" content="link"/>
